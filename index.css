@@ -1,0 +1,44 @@
+
+   
+body {
+    background-color :yellow ; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-style: oblique; 
+    font-weight: bolder; 
+
+}
+.container {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top : 50px ; 
+} 
+
+
+label {
+    font-size: x-large; 
+    font-style: oblique; 
+    font-weight: bolder; 
+    margin : 10px ;
+}
+input {
+    margin: 12px 0 12px 0;
+    width: 40%; 
+    height:auto ;
+    background-color:whitesmoke;
+    height: 50px;
+    padding: 3px 13px 3px 13px;
+}
+.btn {
+    padding:10px 5px 6px 10px ; 
+    width: 20%; 
+    border-radius: 10px ;
+    font-style: oblique; 
+    font-size: xx-large; 
+    color: turquoise; 
+    background-color: tomato;
+}
